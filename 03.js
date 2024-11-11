@@ -15,8 +15,9 @@ let numbers = 0;
 while (count <= 20) {
   count += 1;
   // number = number + numbers;
-  // numbers += 2;
-  number = ((number + 1) / 2) ** 2;
+
+  number = ((numbers + 1) / 2) ** 2;
+  numbers += 1;
   sum = number;
 }
 
