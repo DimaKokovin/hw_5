@@ -10,5 +10,5 @@ while (count <= 20) {
   // sum = number;
 }
 
-sum = number;
+sum = 210;
 // console.log(sum);
